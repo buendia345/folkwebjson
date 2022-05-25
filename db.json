@@ -54,60 +54,6 @@
       "phone": "987654321",
       "email": "somoscivil@gmail.com",
       "password": "123456"
-    },
-    {
-      "id": 4,
-      "name": "MALAGA",
-      "projects": 0,
-      "description": "Somos una empresa de diseño arquitectónico de alto nivel y construcción que busca siempre la innovación y vanguardia; totalmente competente con los mejores despachos de México, ofrece plena satisfacción, diseños estéticos y sustentables.\n Implementamos metodologías para dar identidad y valor a los proyectos desde el concepto, el diseño de interior, hasta las técnicas más avanzadas en domótica.",
-      "img": "https://images.pexels.com/photos/389819/pexels-photo-389819.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "address": "Trujillo, Perú",
-      "score": 4,
-      "webSite": "https://www.universidadperu.com/empresas/construcciones-generales.php",
-      "show": false,
-      "startOfCustomerService": 0,
-      "endOfCustomerService": 0,
-      "days": "Monday-Tuesday-Wednesday",
-      "flex": 4,
-      "phone": "987654321",
-      "email": "malaga@gmail.com",
-      "password": "123456"
-    },
-    {
-      "id": 5,
-      "name": "Antares Arquitectos",
-      "projects": 0,
-      "description": "Somos una empresa de diseño arquitectónico de alto nivel y construcción que busca siempre la innovación y vanguardia; totalmente competente con los mejores despachos de México, ofrece plena satisfacción, diseños estéticos y sustentables.\n Implementamos metodologías para dar identidad y valor a los proyectos desde el concepto, el diseño de interior, hasta las técnicas más avanzadas en domótica.",
-      "img": "https://images.pexels.com/photos/3183199/pexels-photo-3183199.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "address": "Nazca, Ica, Perú",
-      "score": 4,
-      "webSite": "https://www.universidadperu.com/empresas/construcciones-generales.php",
-      "show": false,
-      "startOfCustomerService": 0,
-      "endOfCustomerService": 0,
-      "days": "Tuesday-Thursday-Friday",
-      "flex": 4,
-      "phone": "987654321",
-      "email": "antares@gmail.com",
-      "password": "123456"
-    },
-    {
-      "id": 6,
-      "name": "Antares Arquitectos",
-      "projects": 0,
-      "description": "Somos una empresa de diseño arquitectónico de alto nivel y construcción que busca siempre la innovación y vanguardia; totalmente competente con los mejores despachos de México, ofrece plena satisfacción, diseños estéticos y sustentables.\n Implementamos metodologías para dar identidad y valor a los proyectos desde el concepto, el diseño de interior, hasta las técnicas más avanzadas en domótica.",
-      "img": "https://images.pexels.com/photos/2058147/pexels-photo-2058147.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "address": "Chorrillos, Lima, Peru",
-      "score": 4,
-      "webSite": "https://www.universidadperu.com/empresas/construcciones-generales.php",
-      "show": false,
-      "startOfCustomerService": 0,
-      "endOfCustomerService": 0,
-      "days": "Monday-Tuesday-Wednesday",
-      "flex": 4,
-      "phone": "987654321",
-      "email": "antares2@gmail.com",
-      "password": "123456"
     }
   ],
   "projects": [
@@ -164,32 +110,6 @@
       "img": "https://images.pexels.com/photos/2058147/pexels-photo-2058147.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "score": 4,
       "businessId": 3
-    },
-    {
-      "id": 7,
-      "style": "Diseño7",
-      "description": "It is a design project in the remodeling of the finish of the house to the client",
-      "localization": "Nazca, Ica, Perú",
-      "img": "https://images.pexels.com/photos/2058147/pexels-photo-2058147.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "score": 4,
-      "businessId": 4
-    },
-    {
-      "id": 8,
-      "style": "Diseño8",
-      "description": "It is a design project in the remodeling of the finish of the house to the client",
-      "localization": "Nazca, Ica, Perú",
-      "img": "https://images.pexels.com/photos/2058147/pexels-photo-2058147.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "score": 4,
-      "businessId": 4
-    },
-    {
-      "businessId": 2,
-      "style": "FinalProyecty",
-      "description": "DFSGDSGSD",
-      "localization": "SDFHDSHSD",
-      "img": "https://images.pexels.com/photos/12203460/pexels-photo-12203460.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
-      "id": 9
     }
   ],
   "clientInformation": [
